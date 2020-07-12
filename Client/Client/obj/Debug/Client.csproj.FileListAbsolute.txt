@@ -1,0 +1,7 @@
+D:\Video\TestGitCommand\Client\Client\bin\Debug\Client.exe.config
+D:\Video\TestGitCommand\Client\Client\bin\Debug\Client.exe
+D:\Video\TestGitCommand\Client\Client\bin\Debug\Client.pdb
+D:\Video\TestGitCommand\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Video\TestGitCommand\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Video\TestGitCommand\Client\Client\obj\Debug\Client.exe
+D:\Video\TestGitCommand\Client\Client\obj\Debug\Client.pdb

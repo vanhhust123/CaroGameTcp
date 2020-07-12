@@ -1,0 +1,13 @@
+D:\Video\TestGitCommand\RoomServer\RoomServer\bin\Debug\RoomServer.exe.config
+D:\Video\TestGitCommand\RoomServer\RoomServer\bin\Debug\RoomServer.exe
+D:\Video\TestGitCommand\RoomServer\RoomServer\bin\Debug\RoomServer.pdb
+D:\Video\TestGitCommand\RoomServer\RoomServer\obj\Debug\RoomServer.csprojAssemblyReference.cache
+D:\Video\TestGitCommand\RoomServer\RoomServer\obj\Debug\RoomServer.csproj.CoreCompileInputs.cache
+D:\Video\TestGitCommand\RoomServer\RoomServer\obj\Debug\RoomServer.exe
+D:\Video\TestGitCommand\RoomServer\RoomServer\obj\Debug\RoomServer.pdb
+D:\Video\ServerClient\RoomServer\RoomServer\bin\Debug\RoomServer.exe.config
+D:\Video\ServerClient\RoomServer\RoomServer\bin\Debug\RoomServer.exe
+D:\Video\ServerClient\RoomServer\RoomServer\bin\Debug\RoomServer.pdb
+D:\Video\ServerClient\RoomServer\RoomServer\obj\Debug\RoomServer.csproj.CoreCompileInputs.cache
+D:\Video\ServerClient\RoomServer\RoomServer\obj\Debug\RoomServer.exe
+D:\Video\ServerClient\RoomServer\RoomServer\obj\Debug\RoomServer.pdb
